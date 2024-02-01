@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change to the repository directory
-cd ~/Documents/kdp_quarto
+# cd ~/Documents/kdp_quarto
 
 # Add all changes to git
 git add .
