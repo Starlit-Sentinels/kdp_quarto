@@ -1,6 +1,6 @@
 project:
   type: book
-###
+########
 book:
   title: "A template for generating a valid EPUB, a KDP-ready PDF and a website for your book"
   author: "Bruno Rodrigues"
